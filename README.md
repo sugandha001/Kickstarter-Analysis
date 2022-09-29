@@ -46,10 +46,10 @@ Theater category is most successful.
 ![Categories based on popularity](https://user-images.githubusercontent.com/112904905/192818726-05f5c8bb-1000-459c-b67b-1262c3c3ad1e.png)
 
 
-- What are some limitations of this dataset?
-- 
+**What are some limitations of this dataset?**
+
 No data on marketing of these campaigns.
 
-- What are some other possible tables and/or graphs that we could create?
-- 
+**What are some other possible tables and/or graphs that we could create?**
+
 A chart to show direct comparison with a similar play of similar budget.
